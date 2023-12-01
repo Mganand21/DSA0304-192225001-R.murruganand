@@ -1,4 +1,4 @@
-mport nltk
+import nltk
 from nltk.stem import PorterStemmer
 
 # Download NLTK data (if not already downloaded)
